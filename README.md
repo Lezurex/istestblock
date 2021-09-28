@@ -11,6 +11,6 @@ Blocks [isTest2](https://istest2.ch) from tracking your mouse and making you abl
 ### Chromium
 > **NOTE**: Google Chrome does not allow the use of this Addon, because it is not listed in the Chrome Web Store. However, you can install it in most other Chromium-based browsers like Chromium, Brave, Opera...
 
-- Download the .crx-file in the latest release.
+- Download the .crx-file in the [latest release](https://github.com/Lezurex/istestblock/releases/latest).
 - Drag the downloaded file into your browser.
 - Confirm your action in the browsers popup.c
