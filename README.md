@@ -13,4 +13,4 @@ Blocks [isTest2](https://istest2.ch) from tracking your mouse and making you abl
 
 - Download the .crx-file in the [latest release](https://github.com/Lezurex/istestblock/releases/latest).
 - Drag the downloaded file into your browser.
-- Confirm your action in the browsers popup.c
+- Confirm your action in the browsers popup.
